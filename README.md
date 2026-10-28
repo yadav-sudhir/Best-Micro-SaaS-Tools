@@ -299,6 +299,7 @@ A curated list of awesome tools for marketing, development, productivity, and mo
 *   [Vaultion](https://vaultion.org/): Non-custodial auto crypto escrow with Kleros arbitration.
 *   [Wallet Finder AI](https://www.walletfinder.ai/): Track top wallets and trades across blockchains with real-time insights.
 *   [Zola Analytics](https://www.zolaanalytics.com/): Turn financial data into instant charts and reports using simple language.
+*   [SaaSCostLab](https://saascostlab.com/): Independent B2B SaaS and AI token cost calculators for modeling seat tiers, onboarding fees, and year-two renewals.
 
 ### Health & Lifestyle
 
